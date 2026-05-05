@@ -58,8 +58,11 @@ responder("O que é o HuggingFace?")
 ```
 
 ## Integrantes
-
 - Larissa Carvalho Pavan
+- Beatriz Mayumi Fernandez de Oliveira
+- Thiago Alves Serra
+- Guilherme Bezerra de Carvalho
+- Samuel Freitas Ribeiro de Castro
 
 ## Referências
 
